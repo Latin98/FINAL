@@ -28,7 +28,7 @@
     color: #007bff! important;
 }
 .navbar{
-    background: black;
+    background: white;
 }
 .navbar-toggler{
     border: none! important;
@@ -56,7 +56,7 @@
     font-size: 42px;
 }
 
-/* About */
+/* CSS Selector */
 #About{
     padding-top: 50px;
     padding-bottom: 50px;
